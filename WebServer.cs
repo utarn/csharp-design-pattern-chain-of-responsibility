@@ -2,11 +2,16 @@ namespace pattern_chainOfResponsibility
 {
     public class WebServer
     {
+        private readonly WebHandler _handler;
+
+        public WebServer(WebHandler handler)
+        {
+            _handler = handler;
+        }
+
         public void Handle(HttpRequest request)
         {
-            // Authenticator
-            // Logger
-            // Compressor
+            _handler.Handle(request);
         }
     }
 }
