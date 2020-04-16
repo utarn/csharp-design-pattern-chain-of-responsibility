@@ -1,0 +1,13 @@
+C:\projects\dotnet\pattern-chainOfResponsibility\bin\Debug\netcoreapp3.1\pattern-chainOfResponsibility.exe
+C:\projects\dotnet\pattern-chainOfResponsibility\bin\Debug\netcoreapp3.1\pattern-chainOfResponsibility.deps.json
+C:\projects\dotnet\pattern-chainOfResponsibility\bin\Debug\netcoreapp3.1\pattern-chainOfResponsibility.runtimeconfig.json
+C:\projects\dotnet\pattern-chainOfResponsibility\bin\Debug\netcoreapp3.1\pattern-chainOfResponsibility.runtimeconfig.dev.json
+C:\projects\dotnet\pattern-chainOfResponsibility\bin\Debug\netcoreapp3.1\pattern-chainOfResponsibility.dll
+C:\projects\dotnet\pattern-chainOfResponsibility\bin\Debug\netcoreapp3.1\pattern-chainOfResponsibility.pdb
+C:\projects\dotnet\pattern-chainOfResponsibility\obj\Debug\netcoreapp3.1\pattern-chainOfResponsibility.csprojAssemblyReference.cache
+C:\projects\dotnet\pattern-chainOfResponsibility\obj\Debug\netcoreapp3.1\pattern-chainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\projects\dotnet\pattern-chainOfResponsibility\obj\Debug\netcoreapp3.1\pattern-chainOfResponsibility.AssemblyInfoInputs.cache
+C:\projects\dotnet\pattern-chainOfResponsibility\obj\Debug\netcoreapp3.1\pattern-chainOfResponsibility.AssemblyInfo.cs
+C:\projects\dotnet\pattern-chainOfResponsibility\obj\Debug\netcoreapp3.1\pattern-chainOfResponsibility.dll
+C:\projects\dotnet\pattern-chainOfResponsibility\obj\Debug\netcoreapp3.1\pattern-chainOfResponsibility.pdb
+C:\projects\dotnet\pattern-chainOfResponsibility\obj\Debug\netcoreapp3.1\pattern-chainOfResponsibility.genruntimeconfig.cache
